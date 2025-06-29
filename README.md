@@ -51,10 +51,7 @@ llm-memorization-detection/
 │   ├── implementation_guide.md
 │   ├── method_comparison.md
 │   └── reproduction_notes.md
-└── results/                    # Experiment results
-    ├── individual_results/     # Per-method results
-    ├── comparisons/           # Cross-method comparisons
-    └── analysis/              # Analysis reports
+
 ```
 
 ## 🚀 Quick Start
@@ -243,13 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for tools and libraries
 - Contributors to this unified framework
 
-## 📞 Contact
 
-For questions, issues, or contributions, please:
-- Open an issue on GitHub
-- Contact the maintainers
-- Join our discussion forum
 
----
 
-**Status**: 🚀 Production Ready | **Version**: 1.0.0 | **Last Updated**: January 2025 
